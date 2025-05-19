@@ -23,6 +23,6 @@ Like any of my stuff? Find it useful? Help you learn stuff? Feel free to shoot o
 <!--
 ![image](https://github.com/user-attachments/assets/d719672c-21ec-488f-93aa-1a8bd56f4310)
 -->
-<img src="https://github.com/user-attachments/assets/d719672c-21ec-488f-93aa-1a8bd56f4310" width="400" />
+<img src="https://github.com/user-attachments/assets/0e633005-3977-45e5-9e13-d8e0718fcee2" width="300" />
 
 ***bc1pv68x4f6dfktsppwle2dcjyxmd6ademdtcc4mrw90aeyf6k2p28zstxnvxr***
