@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=j25519&theme=vue-dark&custom_title=Languages&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+Putting my random hobby projects here.
+
 <!--
 **j25519/j25519** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +18,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Like any of my stuff? Find it useful? Help you learn stuff? Feel free to shoot over some Bitcoin :)
+<!--
+![image](https://github.com/user-attachments/assets/d719672c-21ec-488f-93aa-1a8bd56f4310)
+-->
+<img src="https://github.com/user-attachments/assets/d719672c-21ec-488f-93aa-1a8bd56f4310" width="400" />
+
+***bc1pv68x4f6dfktsppwle2dcjyxmd6ademdtcc4mrw90aeyf6k2p28zstxnvxr***
