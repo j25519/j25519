@@ -23,7 +23,7 @@ Like any of my stuff? Find it useful? Help you learn stuff? Feel free to shoot o
 <!--
 ![image](https://github.com/user-attachments/assets/d719672c-21ec-488f-93aa-1a8bd56f4310)
 -->
-<img src="https://github.com/user-attachments/assets/40941a1d-06fa-434f-b5d6-a8a4ed812d91" width="300" />
+<img src="https://github.com/user-attachments/assets/40941a1d-06fa-434f-b5d6-a8a4ed812d91" width="420" />
 <!--
 ![image](https://github.com/user-attachments/assets/40941a1d-06fa-434f-b5d6-a8a4ed812d91)
 -->
