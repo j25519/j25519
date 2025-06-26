@@ -2,7 +2,7 @@
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=j25519&theme=vue-dark&custom_title=Languages&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-Putting my random hobby projects here.
+Putting my random hobby projects and some work related stuff here. Work stuff is mostly scripts and demo UIs etc, can't put the important work things on my public GitHub.
 
 <!--
 **j25519/j25519** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
