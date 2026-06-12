@@ -4,6 +4,8 @@
 
 Putting my random hobby projects and some work related stuff here. Work stuff is mostly scripts and demo UIs etc, can't put the important work things on my public GitHub.
 
+I occasionally have handy stuff in [my gists.](https://gist.github.com/j25519)
+
 <!--
 **j25519/j25519** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
